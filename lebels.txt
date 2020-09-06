@@ -1,0 +1,1 @@
+{"bad_angry": 0, "bad_boring": 1, "bad_gloomy": 2, "good_cheerful": 3, "good_exciting": 4}
